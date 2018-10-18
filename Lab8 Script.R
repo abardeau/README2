@@ -20,4 +20,5 @@ for(i in 1:nchr){
 axis(1, at = ticklocs, labels = as.character(chrnames))
 }
 # fancy version
-manhattan3(yieldGWAS, threshold.lines = c(5, 8), label.cutoff = 5)
+manhattan3(yieldGWAS, threshold.lines = c(2, 10), label.cutoff = 5) #I changed your threshold lines to
+#make it more visually appealing
