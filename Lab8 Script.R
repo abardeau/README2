@@ -24,3 +24,4 @@ manhattan3(yieldGWAS, threshold.lines = c(2, 10), label.cutoff = 5) #I changed y
 #make it more visually appealing
 
 #this is lucas roberts commenting
+# this is a secont comment
