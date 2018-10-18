@@ -22,3 +22,6 @@ axis(1, at = ticklocs, labels = as.character(chrnames))
 # fancy version
 manhattan3(yieldGWAS, threshold.lines = c(2, 10), label.cutoff = 5) #I changed your threshold lines to
 #make it more visually appealing
+
+#this is lucas roberts commenting
+# this is a secont comment
